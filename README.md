@@ -35,11 +35,6 @@
 
 </details>
 
-[website]: https://www.tuwien.at/en/
-[twitter]: https://twitter.com/ChriPratellesi
-[instagram]: https://www.instagram.com/christianpratellesi/
-[linkedin]: https://www.linkedin.com/in/christian-pratellesi-41a3671b2/
-
 <!---
 pratax/pratax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
